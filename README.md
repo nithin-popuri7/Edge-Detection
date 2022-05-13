@@ -85,11 +85,11 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-![github.logo](sob4.png)
-![github.logo](sob.png)
-![github.logo](sob3.png)
-![github.logo](sob2.png)
-![github.logo](sob1.png)
+<br>![github.logo](sob4.png)<br>
+<br>![github.logo](sob.png)<br>
+<br>![github.logo](sob3.png)<br>
+<br>![github.logo](sob2.png)<br>
+<br>![github.logo](sob1.png)<br>
 
 
 
