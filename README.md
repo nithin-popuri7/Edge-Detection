@@ -7,22 +7,32 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import all the required packages.
 
 
 ### Step2:
-<br>
+Load the image to operate on.
 
 ### Step3:
-<br>
+Convert the image to grayscale image.
 
 ### Step4:
-<br>
+Use Sobel operator along x,y and xy directions.
 
 ### Step5:
-<br>
+Operate the image using Laplacian operator.
 
- 
+### Step6:
+Operate the image using Canny Edge operator.
+
+### Step7:
+Show all the operated images output.
+
+### Step8:
+End the Program.
+
+### Developed By:P.Siva Naga Nithin
+### Reg.no:212221240037
 ## Program:
 
 ``` Python
